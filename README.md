@@ -41,7 +41,7 @@
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/marlonbertuani)](https://gitlab.com/BRdhanani) 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/marlonbertuani)](https://gitlab.com/marlonbertuani) 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/marlonbertuani)](https://github.com/marlonbertuani)
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/marlonbertuani)](https://github.com/marlonbertuani) 
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/marlonbertuani)](https://github.com/marlonbertuani)
